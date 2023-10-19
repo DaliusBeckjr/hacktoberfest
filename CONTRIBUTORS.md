@@ -586,6 +586,11 @@ to explore life. Also, Python and Django Developer
 - Bio: System administrator by day, devops by hobby.
 - GitHub: [Dale Noe](https://github.com/dalenoe)
 
+#### Name: [Dalius Beck](https://github.com/DaliusBeckjr)
+- Place: Queen Creek, Arizona
+- Bio: want to be a SWE to live comfortably with the loml
+- Github: [Dalius Beck](https://github.com/DaliusBeckjr)
+
 #### Name: [Dallas Rhoades](https://github.com/dallasrhoades)
 - Place: College Park, Maryland, USA
 - Bio: Undergraduate
